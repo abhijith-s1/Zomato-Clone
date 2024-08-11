@@ -1,0 +1,1 @@
+This is a clone of the Zomato website, a popular restaurant discovery and food delivery platform. The project is built using modern web technologies and aims to replicate the core features of Zomato, including restaurant search, browsing menus, user reviews, and online food ordering.
